@@ -1,1 +1,1 @@
-# ady
+# Worked out the analysis of Target Retail chain of US for its operation in Brazil. Got some interesting and valuable insights and recommendations based on the analysis. The only tool used for the whole analysis is MySQL.
